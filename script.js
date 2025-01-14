@@ -23,12 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "Vegetable Dumplings": "<strong>Description:</strong> Delicious dumplings filled with a mix of fresh vegetables.<br><strong>Ingredients:</strong> Cabbage, carrots, mushrooms, garlic, soy sauce.<br><strong>Availability:</strong> Delivery and dine-in.<br><strong>Price:</strong> Regular RM 8, Large RM 11.",         
         "Beef Dumplings": "<strong>Description:</strong> Juicy dumplings stuffed with savory beef filling.<br><strong>Ingredients:</strong> Beef, garlic, onion, ginger, spices.<br><strong>Availability:</strong> Delivery and dine-in.<br><strong>Price:</strong> Regular RM 9, Large RM 12.",         
         "Chicken Dumplings": "<strong>Description:</strong> Tasty dumplings packed with flavorful chicken.<br><strong>Ingredients:</strong> Chicken, scallions, soy sauce, ginger.<br><strong>Availability:</strong> Delivery and dine-in.<br><strong>Price:</strong> Regular RM 9, Large RM 12."  
-        "Condiments": "Available Sauces
-01 Chinese chili sauce 
-02 Garlic & Vinegar
-03 Sweet chili sauce 
-04 DingDong sauce (Mix chilli oil + garlic + sweet chili sauce) 
-05 Seafood sauce (Green sauce)"
+        "Condiments": "Available Sauces 01 Chinese chili sauce 02 Garlic & Vinegar 03 Sweet chili sauce 04 DingDong sauce (Mix chilli oil + garlic + sweet chili sauce)  05 Seafood sauce (Green sauce)"
     };
     
 
